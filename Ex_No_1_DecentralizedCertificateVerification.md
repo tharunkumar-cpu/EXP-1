@@ -1,4 +1,7 @@
 ### Experiment 1: Decentralized Certificate Verification
+# Name:THARUN K
+# Reg no:212222040172
+# Date:26/04/2026
 ## Aim:
   To develop a smart contract for issuing and verifying academic certificates on Ethereum, preventing forgery and ensuring authenticity.
 ## Algorithm:
