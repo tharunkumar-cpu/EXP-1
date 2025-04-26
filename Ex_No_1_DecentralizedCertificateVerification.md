@@ -47,4 +47,5 @@ High-Level Overview:
 ![image](https://github.com/user-attachments/assets/55e03f67-81c0-46e9-815a-b569a7aa34af)
 
 # Result:
+Thus,to develop a smart contract for issuing and verifying academic certificates on Ethereum, preventing forgery and ensuring authenticity is successfully executed.
 
